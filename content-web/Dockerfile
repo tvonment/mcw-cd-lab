@@ -20,3 +20,4 @@ COPY . /usr/src/app
 RUN ng build 
 # Start the application
 CMD [ "node", "app.js" ]
+# Testing
